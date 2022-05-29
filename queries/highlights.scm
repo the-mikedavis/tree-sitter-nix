@@ -76,8 +76,6 @@
 
 (identifier) @property
 
-(inherit_from attrs: (inherited_attrs attr: (identifier) @property) )
-
 [
   ";"
   "."
@@ -93,5 +91,3 @@
   "{"
   "}"
 ] @punctuation.bracket
-
-(identifier) @variable
